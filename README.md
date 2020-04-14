@@ -6,6 +6,4 @@ Updates made on github before rebase
 
 ## Purpose
 
-## Repository purpose
-
-This file is just a README file
+THe purpose of this file is to provide examples on how to use Git and GitHub together.
