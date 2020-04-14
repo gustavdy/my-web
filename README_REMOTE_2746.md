@@ -6,6 +6,5 @@ Updates made on github before rebase
 
 ## Purpose
 
-## Repository purpose
+This file is just a readme file.
 
-This file is just a README file
